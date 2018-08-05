@@ -331,3 +331,5 @@ ASALocalRun/
 # Local History for Visual Studio
 .localhistory/
 /SMService/Classes/CHBackup/
+/packages.zip
+/Setup/Output/setup.exe
